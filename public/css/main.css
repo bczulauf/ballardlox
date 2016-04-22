@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    width: 800px;
+}
+
+#header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    font-family: "Arimo"
+}
+
+#logo-name {
+    font-size: 28px;
+    text-transform: uppercase;
+}
